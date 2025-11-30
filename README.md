@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kaan Alp (kaanalp28)<br><br>🇹🇷 From: Turkey<br><br>🎂 Age: 18<br><br>🐍 Main language: Python<br><br>🤖 What I work with: Pycord, web scraping, Selenium<br><br>📚 Currently learning: Kotlin<br><br>🧩 Interests: Backend development, small automations, Discord bots<br><br>🎧 Music: Anatolian / Turkish rock<br><br>💻 OS: Arch Linux (btw) — surface level, nothing crazy<br><br>✨ Other stuff I like: Clean code, simple setups, tinkering
+👋 Hi, I’m Kaan Alp<br><br>🇹🇷 From: Turkey<br><br>🎂 Age: 18<br><br>🐍 Main language: Python<br><br>🤖 What I work with: Pycord, web scraping, Selenium<br><br>📚 Currently learning: Kotlin<br><br>🧩 Interests: Backend development, small automations, Discord bots<br><br>🎧 Music: Anatolian / Turkish rock<br><br>💻 OS: Arch Linux (btw) — surface level, nothing crazy<br><br>✨ Other stuff I like: Clean code, simple setups, tinkering
 
 
 ## 🌐 Socials:
